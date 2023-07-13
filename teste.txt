@@ -1,0 +1,11 @@
+Estados do Brasil
+AM - Amazonas
+PA - Pará
+TO - Tocantins
+MG - Minas Gerais
+BA - Bahia
+PR - Paraná
+SP - São Paulo
+RJ - Rio de Janeiro
+SC - Santa Catarina
+RS - Rio Grande do Sul
